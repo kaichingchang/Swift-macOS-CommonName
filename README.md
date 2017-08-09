@@ -16,3 +16,5 @@
 [iBooks Store](https://itunes.apple.com/us/book/id1079291979)
 [Readmoo](https://readmoo.com/book/210034848000101)
 [Pubu](http://www.pubu.com.tw/ebook/65565?apKey=576b20f092)
+
+作者網站 [http://www.kaiching.org](http://www.kaiching.org)
